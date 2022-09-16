@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+}
+.card-header{
+    font-style: italic;
+    font-size: xx-large;
+    color: darkorchid;
+}
+.input-group-append{
+    margin-bottom: 20px;
+}
+.card-text{
+    color:mediumvioletred;
+    font-size: larger;
+}
+.img1{
+    margin-top: 1px;
+height: 420px;
+    
+    /* margin-right: -200px; */
+}
+h1{
+    color: tomato;
+    margin-top: 5px;
+    text-align: center;
+}
